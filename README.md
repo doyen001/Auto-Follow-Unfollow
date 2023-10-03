@@ -5,7 +5,7 @@
 | -- | -- | -- | -- | -- |
 | Senior Web Developer | Quick problem solver | - | - | - |
 
-## Followers <kbd>718</kbd>
+## Followers <kbd>719</kbd>
 
 <table width="100%">
   <tr width="100%">
@@ -229,7 +229,7 @@
       </a>
     </td>
     <td width="10%" align="center">
-      <a href="https://github.com/BrianMartin176743">
+      <a href="https://github.com/lily176743">
         <img src="https://avatars.githubusercontent.com/u/133817266?v=4" />
       </a>
     </td>
@@ -3574,11 +3574,16 @@
       </a>
     </td>
     <td width="10%" align="center">
+      <a href="https://github.com/hangga">
+        <img src="https://avatars.githubusercontent.com/u/6803784?v=4" />
+      </a>
+    </td>
+  </tr><tr width="100%">
+    <td width="10%" align="center">
       <a href="https://github.com/OOx80">
         <img src="https://avatars.githubusercontent.com/u/6581403?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/gamemann">
         <img src="https://avatars.githubusercontent.com/u/6509565?v=4" />
@@ -3624,12 +3629,12 @@
         <img src="https://avatars.githubusercontent.com/u/3408129?v=4" />
       </a>
     </td>
+  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/petrozavodsky">
         <img src="https://avatars.githubusercontent.com/u/2689829?v=4" />
       </a>
     </td>
-  </tr><tr width="100%">
     <td width="10%" align="center">
       <a href="https://github.com/felpfsf">
         <img src="https://avatars.githubusercontent.com/u/2619027?v=4" />
@@ -3669,8 +3674,6 @@
       <a href="https://github.com/linces">
         <img src="https://avatars.githubusercontent.com/u/45243?v=4" />
       </a>
-    </td>
-    <td width="10%" align="center">
     </td>
     <td width="10%" align="center">
     </td>
