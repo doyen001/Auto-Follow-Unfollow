@@ -382,13 +382,13 @@
       </a>
     </td>
     <td width="10%" align="center">
-      <a href="https://github.com/omsandippatil">
-        <img src="https://avatars.githubusercontent.com/u/131482831?v=4" />
+      <a href="https://github.com/adandev1125">
+        <img src="https://avatars.githubusercontent.com/u/131336201?v=4" />
       </a>
     </td>
     <td width="10%" align="center">
-      <a href="https://github.com/adandev1125">
-        <img src="https://avatars.githubusercontent.com/u/131336201?v=4" />
+      <a href="https://github.com/rajatcantcode">
+        <img src="https://avatars.githubusercontent.com/u/130392640?v=4" />
       </a>
     </td>
     <td width="10%" align="center">
